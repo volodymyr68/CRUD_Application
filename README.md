@@ -1,2 +1,4 @@
 # CRUD_Application
-Simple crud application without data base
+Simple crud aplication with database.
+To start this project you need to install tomcat 8 - 9 version.
+url- /people
